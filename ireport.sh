@@ -8,7 +8,7 @@ uname -a
 echo ====    Network Interface     ====
 ifconfig -a
 echo ====    Network Statistics    ====
-netstat -ano | more
+netstat -ano
 echo ====     Processes            ====
 ps -axu
 echo ====    Routing Table         ====
