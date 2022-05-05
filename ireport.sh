@@ -1,6 +1,6 @@
 
  #!/bin/bash
-echo Incident Investigation Report
+figlet Incident Investigation Report
 echo ====    Start Date and Time   ==== 
 date
 echo ====    System Information    ==== 
